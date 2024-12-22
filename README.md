@@ -1,4 +1,4 @@
-# CS-470-Full-Stack-Development-II
+# Martin Richardson CS 470 Final Reflection 12/22/2024
 
 ## Experiences and Strengths:
 ### What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
