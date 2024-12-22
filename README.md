@@ -2,7 +2,7 @@
 
 ## Experiences and Strengths:
 ### What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
-#### In this class
+#### In this course, I’ve gained skills in cloud computing architecture, including deploying serverless solutions and containerized applications. I’ve also developed expertise in tools like Docker and AWS Lambda, along with the ability to optimize application scalability, cost-efficiency, and security. These skills, combined with my understanding of elasticity, pay-for-use models, and cloud-based development principles, make me a competitive candidate in technology roles that demand expertise in modern web application development and cloud infrastructure.
 ### Describe your strengths as a software developer.
 #### I would have to say my main strength as a software developer would have to be my problem solving skills. I have had a job where a lot of problems come up on a daily basis so I have had to adapt and overcome those challenges. I feel that has transfered over to my talents here. There are always going to be problems with software and finding a way to fix them and solve them is one thing I feel that I have been good at. This class had a few when it came to making the website and I was albe to solve them with a little hard work and elbow grease. 
 ### Identify the types of roles you are prepared to assume in a new job.
