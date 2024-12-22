@@ -1,5 +1,7 @@
 # Martin Richardson CS 470 Final Reflection 12/22/2024
 
+# https://youtu.be/jBYlyC2Oy5Y
+
 ## Experiences and Strengths:
 ### What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 #### In this course, I’ve gained skills in cloud computing architecture, including deploying serverless solutions and containerized applications. I’ve also developed expertise in tools like Docker and AWS Lambda, along with the ability to optimize application scalability, cost-efficiency, and security. These skills, combined with my understanding of elasticity, pay-for-use models, and cloud-based development principles, make me a competitive candidate in technology roles that demand expertise in modern web application development and cloud infrastructure.
